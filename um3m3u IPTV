@@ -40,3 +40,5 @@ http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
 KOSOVA
 #EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/LTkYnzl.png" group-title="Undefined",RTK 1 HD
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/RQI1pBn.png" group-title="Undefined",RTK 3
+http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8?checkedby:hlscat.com
