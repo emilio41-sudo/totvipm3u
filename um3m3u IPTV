@@ -26,3 +26,8 @@ http://edge01eu.ekranet.com/tematv_360p/index.m3u8
 http://edge01eu.ekranet.com/scantv/index.m3u8
 #EXTINF:-1,FAX NEWS
 http://edge01eu.ekranet.com/faxnews/index.m3u8
+#EXTINF:0,AlbMUSIC
+https://ch.iptvmate.net/fa97465b22ec9cf66204467900d6b632.m3u8
+#EXTINF:0,AlbUK TV
+https://ch.iptvmate.net/7b7b85244807d2d999c443387a6886de.m3u8
+#EXTINF:0,Apollon TV
