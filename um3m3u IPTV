@@ -2,3 +2,17 @@
 http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8
 #EXTINF:-1,RTSH 2
 http://edge01eu.ekranet.com:80/rtsh2hd1/index.m3u8
+#EXTINF:-1,RTSH 3
+http://edge01eu.ekranet.com:80/rtsh3hd1/index.m3u8
+#EXTINF:-1,RTSH 24
+http://edge01eu.ekranet.com:80/rtsh24/index.m3u8
+#EXTINF:-1,RTSH Sport
+http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
+#EXTINF:-1,RTSH Kids
+http://edge01eu.ekranet.com:80/rtshfemije_240p/index.m3u8
+#EXTINF:-1,RTSH Film
+http://edge01eu.ekranet.com/rtshfilm_240p/index.m3u8
+#EXTINF:-1,RTSH Shqip
+http://edge01eu.ekranet.com/rtshshqip1/index.m3u8
+#EXTINF:-1,TV Korca
+http://edge01eu.ekranet.com/tvkorca/index.m3u8
