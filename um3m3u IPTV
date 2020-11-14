@@ -20,3 +20,9 @@ http://edge01eu.ekranet.com/tvkorca/index.m3u8
 http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8
 #EXTINF:-1,RTSH FILM
 http://edge01eu.ekranet.com:80/rtshfilm1/index.m3u8
+#EXTINF:-1,TEMA
+http://edge01eu.ekranet.com/tematv_360p/index.m3u8
+#EXTINF:-1,SCAN 24
+http://edge01eu.ekranet.com/scantv/index.m3u8
+#EXTINF:-1,FAX NEWS
+http://edge01eu.ekranet.com/faxnews/index.m3u8
